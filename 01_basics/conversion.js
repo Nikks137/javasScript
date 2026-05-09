@@ -23,5 +23,5 @@ let num = Number(name);
 console.log(name)//nikhil
 console.log(num)//NaN
 
-console.log(typeof name)
-console.log(typeof num)
+console.log(typeof name)//string
+console.log(typeof num)//number
